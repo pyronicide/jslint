@@ -17,9 +17,5 @@
 	}],
 	"dependencies": [
 		"jslint-core"
-	],
-	"directories": {
-		"lib": "lib",
-		"bin": "bin"
-	}
+	]
 }
